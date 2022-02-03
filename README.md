@@ -1,4 +1,4 @@
-# Twitter_Scrapping
+# Twitter_Scraping
 Twitter tweets extracting using python
 
 Our project is to extract data from twitter for a particular hashtag then we will analyze the sentiment of the public on twitter.
